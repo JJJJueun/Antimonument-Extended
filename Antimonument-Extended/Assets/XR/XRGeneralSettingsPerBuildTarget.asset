@@ -29,8 +29,12 @@ MonoBehaviour:
   m_RequiresSettingsUpdate: 0
   m_AutomaticLoading: 0
   m_AutomaticRunning: 0
+<<<<<<< Updated upstream
   m_Loaders:
   - {fileID: 11400000, guid: 1138194cf1ed803cdbad50ea08254c50, type: 2}
+=======
+  m_Loaders: []
+>>>>>>> Stashed changes
 --- !u!114 &-586328369667743609
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -47,7 +51,7 @@ MonoBehaviour:
   m_AutomaticLoading: 0
   m_AutomaticRunning: 0
   m_Loaders:
-  - {fileID: 11400000, guid: ac2dbafda95666bf39773c0f83a96348, type: 2}
+  - {fileID: 11400000, guid: d6f023cc19549f1408f04197a8266922, type: 2}
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
